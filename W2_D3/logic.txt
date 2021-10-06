@@ -13,6 +13,16 @@ will die...". Your group sets forth to the breakout room of your choice to save 
 
 For the first bottle you take one pill and for each bottle there after you take one more pill than the bottle before. the weight will show which pill bottle it came from based on the value of the decimal.
 
+1- |
+2- ||
+3- |||
+4- ||||
+5- |||||
+6- ||||||
+ect.
+
+210.(bottle number)
+
 
 *************************************************************************
 
