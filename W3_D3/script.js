@@ -128,6 +128,10 @@ class BST {
             }
         }
     }
+
+    remove(){
+        
+    }
 }
 
 

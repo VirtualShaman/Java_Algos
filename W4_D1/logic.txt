@@ -1,0 +1,13 @@
+Burning Rope Challenge - 
+You have two ropes that each take an hour to burn,
+but burn at inconsistent rates. How can you measure 45 minutes?
+
+Light the first rope at both ends so it will burn twice as fast and light the other rope on one side. When the first rope is finished burning light the other side of the second rope. When it is finished burning 45 minutes will have passed.
+
+You have 2 eggs...
+
+You have a 100 story building and you have to figure out where they will break when dropped from certain floors. Goal is to find out the highest floor they will not break from in minimum attempts.
+
+Start with 50 if it breaks go to 1 and work your way up. If it doesn't break at 50 go to 75. If it breaks at 75 go to 51 and work your way up. If it doesn't break at 75 got to 88. Repeat this same pattern. 
+^This is wrong....^
+
