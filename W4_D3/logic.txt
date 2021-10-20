@@ -1,0 +1,50 @@
+Why are manhole covers round?
+
+There is no chance of the lid falling inside it self
+
+
+
+
+Add two numbers without using the addition operator.
+
+a - -(b)
+
+
+
+
+A farmer needs to cross the river with his fox, his chicken and a bag of corn. However, the boat can only fit the farmer and one other thing at a time. The problem is, the fox and the chicken are both hungry, so if he leaves the fox and chicken together, the fox might eat the chicken. If he leaves the chicken and corn together, the chicken might eat the corn.
+
+So how can the farmer get everyone across the river safely?
+
+The farmer takes the chicken, then the fox then the corn.
+
+================================= or =================================
+
+A farmer needs to cross the river with his fox, his chicken and a bag of corn. However, the boat can only fit the farmer and one other thing at a time and only go across once. The fox and the chicken are both hungry.
+
+So how can the farmer get everyone across the river?
+
+The chicken eats the corn, the fox eats the chicken, the farmer takes the fox across.
+
+
+
+
+Each and every word in this list has the same unusual uniqueness in common. Here are the words:
+
+Assess
+Banana
+Dresser
+Grammar
+Potato
+Revive
+Uneven
+Voodoo
+
+If you take out the first letter the rest is a palendrome.
+
+
+
+
+My neighbor Frank says to me one day, he says I have five children. I say I know that. He says half of them are boys. I said I'll get right back to you. Can you explain that?
+
+All of them are boys.
